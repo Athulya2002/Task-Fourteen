@@ -1,7 +1,10 @@
-VM IP - 4.188.247.48
+# Task 14: Free VM Setup and Web Application Deployment
 
-Steps for Setting Up a Web Server on cloud VM
+## Overview
 
+In this task, I created a free virtual machine (VM) in my cloud account (AWS/GCP/Azure), set up an Apache web server, and deployed a web application to demonstrate the deployment process and user registration functionality. This README documents the steps taken, along with screenshots of the process.
+
+## Steps Taken
 
 1. Login to Your Cloud VM via SSH from Kali Linux
    - Open your Kali Linux terminal.
@@ -74,3 +77,9 @@ Steps for Setting Up a Web Server on cloud VM
 
 11. Share the Public IP of Your Web Server
     - Share your web server’s public IP with friends or colleagues to verify if they can access the registration and login pages.
+
+## Public IP
+- The public IP address of the VM is: `4.188.247.48`
+
+## Conclusion
+This task demonstrated the process of setting up a free VM, deploying a web application, and creating a user registration system. The web application is now accessible to anyone using the public IP.
